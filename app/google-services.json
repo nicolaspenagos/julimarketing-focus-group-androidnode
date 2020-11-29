@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1076445202289",
+    "firebase_url": "https://julimarketing-focus-group.firebaseio.com",
+    "project_id": "julimarketing-focus-group",
+    "storage_bucket": "julimarketing-focus-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076445202289:android:c18f5b37cf1dbc3e7798d0",
+        "android_client_info": {
+          "package_name": "com.example.julimarketing_focus_group_androidnode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076445202289-dv79e1euh5eefpvm242h53pr8co2eq6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.julimarketing_focus_group_androidnode",
+            "certificate_hash": "989af0aff3e58d7d9897c69dcb5abe90f1617029"
+          }
+        },
+        {
+          "client_id": "1076445202289-okvh55ve83l4ftsq3i0pmvmpn3eb1t3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANiZzdWzI8OON__BJsaE5RSpnOdWFAqz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076445202289-okvh55ve83l4ftsq3i0pmvmpn3eb1t3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
