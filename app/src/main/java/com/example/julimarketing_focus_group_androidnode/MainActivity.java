@@ -26,9 +26,6 @@ import com.google.firebase.database.ValueEventListener;
 
 import java.util.UUID;
 
-/*
- * This class controls the screen where the user enters their score for each question.
- */
 public class MainActivity extends AppCompatActivity {
 
     // -------------------------------------
@@ -145,6 +142,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public boolean isInteger( String input ) {
+
         try {
             Integer.parseInt( input );
             return true;
@@ -152,6 +150,7 @@ public class MainActivity extends AppCompatActivity {
         catch( Exception e ) {
             return false;
         }
+        
     }
 
 }
