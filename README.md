@@ -1,5 +1,5 @@
 # julimarketing-focus-group-androidnode
-Simple two-node application that uses the Firebase SDK as a means of posting questions from the web node that will be answered by users in the android node. This is the Android Node repository.
+Simple two-node application that uses the Firebase SDK as a means of posting questions from the web node that will be answered by users in the android node. This is the android node repository.
 
 Users can rate the questions from 1 to 10 and the average can be seen in real time. In addition, the questions are stored in a history with their grade.
 
